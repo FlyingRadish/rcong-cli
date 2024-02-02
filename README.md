@@ -1,3 +1,5 @@
+A command-line tool for [rcong](https://github.com/FlyingRadish/rcong-cli/blob/main/README.md)
+
 # How to use
 
 1. download or build on your own enviroment
