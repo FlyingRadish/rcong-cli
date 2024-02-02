@@ -1,4 +1,4 @@
-A command-line tool for [rcong](https://github.com/FlyingRadish/rcong-cli/blob/main/README.md)
+A command-line tool for [rcong](https://github.com/FlyingRadish/rcong)
 
 # How to use
 
